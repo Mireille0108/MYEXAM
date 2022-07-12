@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    background-color: grey;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: darkcyan;
+    color: lightblue;
+    
+}
+.container {
+   background-color: lavender;
+   text-align: center;
+   height: 75%;
+   width: auto;
+   position: relative;
+   overflow: scroll;
+
+
+}
+.container input {
+    padding: 20px;
+    margin:15px ;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px red;
+    width: 30%;
+    
+}
+.box3 {
+    border-style:  solid;
+    
+
+    
+}
+
+
+
+
+
+
+
